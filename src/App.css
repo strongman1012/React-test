@@ -1,0 +1,13 @@
+/* App.css */
+header{
+  min-height: 10vh;
+}
+main, .custom-container {
+  min-height: 80vh;
+}
+
+footer {
+  min-height: auto;
+  position: relative;
+  bottom: 0;
+}
