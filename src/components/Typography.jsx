@@ -3,9 +3,9 @@ import React from 'react';
 const Typography = ({ fontStyle, children }) => {
 
   return (
-    <div className={fontStyle}>
+    <p className={fontStyle}>
       {children}
-    </div>
+    </p>
   );
 };
 
